@@ -1,0 +1,2 @@
+debian/tmp/include/* /usr/include/
+debian/tmp/lib/*.so /usr/lib/

@@ -1,0 +1,15 @@
+Source: libhsclient-c-wrapper
+Section: admin
+Priority: extra
+Maintainer: Sipwise Development Team <support@sipwise.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: http://sipwise.com/
+
+Package: libhsclient-c-wrapper0
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}, libhsclient-dev
+Description: library for handlersocket handling in C programs
+ This library provides a high-level interface for C programs
+ to interact with the HandlerSocket interface in MySQL flavor
+ databases. It uses the C++ libhsclient library under the hood.

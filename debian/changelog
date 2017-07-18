@@ -1,0 +1,5 @@
+libhsclient-c-wrapper (5.5.0.0+0~mr5.5.0.0) unstable; urgency=medium
+
+  * Initial revision
+
+ -- Andreas Granig <agranig@sipwise.com>  Wed, 12 Apr 2017 21:09:23 +0200

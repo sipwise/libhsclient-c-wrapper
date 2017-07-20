@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_8f82dafe",
+        "filename": "debian/changelog",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2017-07-20T08:15:43Z",
+      "side": 1,
+      "message": "truk is mr5.5 currently, there must be 5.5.0.0+0~mr5.5.0.0",
+      "range": {
+        "startLine": 1,
+        "startChar": 24,
+        "endLine": 1,
+        "endChar": 42
+      },
+      "revId": "b80b49476b2f9b11c9e188b872eca9bec10572f8",
+      "serverId": "85315e57-5f03-49c3-83f8-201ae2313a75",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_af87960e",
+        "filename": "debian/control",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2017-07-20T08:15:43Z",
+      "side": 1,
+      "message": "why do we put those 0 here?",
+      "range": {
+        "startLine": 9,
+        "startChar": 30,
+        "endLine": 9,
+        "endChar": 31
+      },
+      "revId": "b80b49476b2f9b11c9e188b872eca9bec10572f8",
+      "serverId": "85315e57-5f03-49c3-83f8-201ae2313a75",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7adec928_cf7b0228",
+        "filename": "debian/control",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2017-07-20T08:15:43Z",
+      "side": 1,
+      "message": "please use \"wrap-and-sort -sat\" here for the proper layout formatting.",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 60
+      },
+      "revId": "b80b49476b2f9b11c9e188b872eca9bec10572f8",
+      "serverId": "85315e57-5f03-49c3-83f8-201ae2313a75",
+      "unresolved": false
+    }
+  ]
+}

@@ -10,7 +10,6 @@ Homepage: http://sipwise.com/
 Package: libhsclient-c-wrapper
 Architecture: all
 Depends:
- libhsclient-dev,
  ${misc:Depends},
  ${shlibs:Depends},
 Description: library for handlersocket handling in C programs

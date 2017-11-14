@@ -1,11 +1,11 @@
 Source: libhsclient-c-wrapper
 Section: admin
-Priority: extra
+Priority: optional
 Maintainer: Sipwise Development Team <support@sipwise.com>
+Homepage: https://www.sipwise.com/
+Standards-Version: 3.9.8
 Build-Depends:
- debhelper (>= 9),
-Standards-Version: 3.9.7
-Homepage: http://sipwise.com/
+ debhelper (>= 10),
 
 Package: libhsclient-c-wrapper
 Architecture: all

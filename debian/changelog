@@ -1,3 +1,9 @@
+libhsclient-c-wrapper (6.1.3.0+0~mr6.1.3.0) unstable; urgency=medium
+
+  * New release.
+
+ -- Sipwise Jenkins Builder <jenkins@sipwise.com>  Mon, 14 May 2018 23:02:05 +0200
+
 libhsclient-c-wrapper (6.1.2.0+0~mr6.1.2.0) unstable; urgency=medium
 
   * New release.

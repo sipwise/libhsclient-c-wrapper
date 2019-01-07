@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1adf8d57_6263b7b2",
+        "filename": "README",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000001
+      },
+      "writtenOn": "2019-01-07T16:15:45Z",
+      "side": 1,
+      "message": "it must be \"repository discontinued\"\n\n17:15:27 ✔ taurus:(master)~/sipwise/git/jenkins-configs$ ack \"repository discontinued\"\njobs/templates/get-code.yaml\n25:           \u0026\u0026 grep -iq \u0027repository discontinued\u0027 \"$WORKSPACE\"/source/README 2\u003e/dev/null; then\n17:15:30 ✔ taurus:(master)~/sipwise/git/jenkins-configs$",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 23
+      },
+      "revId": "5e2e3bf6fbba1884289e2df7393b2dd17771888c",
+      "serverId": "85315e57-5f03-49c3-83f8-201ae2313a75",
+      "unresolved": false
+    }
+  ]
+}
